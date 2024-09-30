@@ -157,7 +157,7 @@ const App = () => {
 
   return (
     <div>
-      <h2>Student Scores</h2>
+      <h2>Students Scores</h2>
       <Bar data={chartData} options={options} />
     </div>
   );
